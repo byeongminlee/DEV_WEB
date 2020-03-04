@@ -12,3 +12,6 @@ WEB1과 HTML Internet이 무엇인지에 대하여 학습하였고 학습물의 
   
 ### WEB2-CSS
 HTML과 CSS를 통하여 문서를 꾸미는 방법에 대하여 학습하였다.
+
+### Practice
+WEB1과  WEB2-CSS에서 배운걸 다시 한 번 내껄로 만들기위해 연습한 HTML문서이다.
